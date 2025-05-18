@@ -1,5 +1,5 @@
 ## Stats
 
-![Statistics GitHub](https://github-readme-stats.vercel.app/api?username=ВАШ_ЮЗЕРНЕЙМ&show_icons=true&theme=radical)
+![Statistics GitHub](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeinderikko&show_icons=true&theme=transparent))
 
-![Activity](https://github-readme-activity-graph.cyclic.app/graph?username=ВАШ_ЮЗЕРНЕЙМ&theme=github)
+![Activity](https://github-readme-activity-graph.cyclic.app/graph?username=zeinderikko&theme=github)
